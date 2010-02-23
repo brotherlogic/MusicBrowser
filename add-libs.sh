@@ -1,0 +1,2 @@
+mvn install:install-file -DgroupId=edu.umd.cs.piccolo -DartifactId=piccolo -Dversion=1.2.1 -Dpackaging=jar -Dfile=libs/piccolo.jar
+mvn install:install-file -DgroupId=edu.umd.cs.piccolo -DartifactId=piccolo-extras -Dversion=1.2.1 -Dpackaging=jar -Dfile=libs/piccolox.jar
